@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-color: #CCCCFF;
 }
 h1 {
   background-color: lightseagreen;
@@ -10,7 +11,7 @@ h2 {
   background-color: #20b2ab39;
 }
 ul,ol {
-  background-color: aliceblue;
+  background-color: lightcyan;
   font-size: 20px;
 }
 p {
